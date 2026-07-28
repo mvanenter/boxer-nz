@@ -3,9 +3,6 @@
 A district-level map of where Aotearoa's Boxer dogs live — population by territorial authority.
 Inspired, of course, by one very good girl. 🐾
  
-<p align="center">
-  <img src="images/boxer.jpg" alt="Choropleth map of Boxer dog population by New Zealand district" width="100%">
-</p>
 <!-- TODO: adjust the image path to wherever the hero image lives in this repo -->
 ## Overview
  
