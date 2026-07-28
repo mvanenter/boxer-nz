@@ -13,8 +13,9 @@ A small, fun cartography project: a choropleth showing how New Zealand's Boxer p
 ## The map
  
 <p align="center">
-  <img src="boxer.jpg" alt="New Zealand Boxer population map" width="100%"><p align="center">   
-</p>
+        <img src="boxer.jpg" alt="New Zealand Boxer population map" width="100%">
+        <br><b>Boxers of New Zealand</b><br>Population by district
+      </p>
 
 ## Data
  
