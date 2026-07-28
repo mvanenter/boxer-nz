@@ -13,8 +13,9 @@ A small, fun cartography project: a choropleth showing how New Zealand's Boxer p
 ## The map
  
 <p align="center">
-  <img src="boxer.jpg" alt="New Zealand Boxer population map" width="100%">
+  <img src="boxer.jpg" alt="New Zealand Boxer population map" width="100%"><p align="center">   
 </p>
+
 ## Data
  
 - **Boxer population by district** — <!-- TODO: THIS IS THE KEY ONE. Where did the counts come from? Council dog-registration data? A LGOIMA request? An open dataset? Cite it clearly, including the year. -->
